@@ -9,3 +9,11 @@ jq
 beautifulsoup4
 lxml
 ipykernel
+
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+langchain-experimental
+termcolor
+
+tiktoken
