@@ -17,3 +17,7 @@ langchain-experimental
 termcolor
 
 tiktoken
+
+ollama
+
+langchain-ollama
