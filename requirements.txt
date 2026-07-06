@@ -21,3 +21,5 @@ tiktoken
 ollama
 
 langchain-ollama
+
+langchain_chroma
