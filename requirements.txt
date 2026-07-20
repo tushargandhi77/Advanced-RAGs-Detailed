@@ -25,3 +25,5 @@ langchain-ollama
 langchain_chroma
 
 lark
+
+flashrank
