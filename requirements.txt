@@ -27,3 +27,5 @@ langchain_chroma
 lark
 
 flashrank
+
+langgraph
