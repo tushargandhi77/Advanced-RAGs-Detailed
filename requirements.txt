@@ -31,3 +31,5 @@ flashrank
 langgraph
 
 tavily
+
+langchain_neo4j
