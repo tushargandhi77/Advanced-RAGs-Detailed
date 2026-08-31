@@ -38,3 +38,9 @@ unstructured[pdf,local-inference]
 langchain-unstructured
 
 ragas
+
+guardrails-ai-detect-pii
+
+guardrails-ai-competitor-check
+
+guardrails-ai
